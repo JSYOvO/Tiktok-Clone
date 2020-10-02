@@ -1,15 +1,24 @@
 # Tiktok Clone
+I ran a Tiktok clone with React. 
 
-FRONTEND
-    React
-    Firebase hosting
-    Material UI
-    Flexbox
-    3rd party ticker
+### Used
+    FRONTEND
+        React
+        Firebase hosting
+        Material UI
+        Flexbox
+        3rd party ticker
 
-BACKEND
-    Node.js
-    Express.js server
-    Mongodb
-    Mongoose
-    Hosting on Heroku
+    BACKEND
+        Node.js
+        Express.js server
+        Mongodb
+        Mongoose
+        Hosting on Heroku
+
+    HOSTING
+        Firebase(Firestore Database)
+
+### Demo
+https://tiktok-clone-de7f6.web.app/
+
