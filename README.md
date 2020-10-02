@@ -22,3 +22,5 @@ I ran a Tiktok clone with React.
 ### Demo
 https://tiktok-clone-de7f6.web.app/
 
+
+![demo](https://user-images.githubusercontent.com/55272100/94891318-adbadf00-04bc-11eb-94bf-9b5ea346e3d9.gif)
